@@ -1,0 +1,15 @@
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/bin/Debug/net9.0/CSharp.HelloName
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/bin/Debug/net9.0/CSharp.HelloName.deps.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/bin/Debug/net9.0/CSharp.HelloName.runtimeconfig.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/bin/Debug/net9.0/CSharp.HelloName.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/bin/Debug/net9.0/CSharp.HelloName.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/obj/Debug/net9.0/CSharp.HelloName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/obj/Debug/net9.0/CSharp.HelloName.AssemblyInfoInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/obj/Debug/net9.0/CSharp.HelloName.AssemblyInfo.cs
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/obj/Debug/net9.0/CSharp.HelloName.csproj.CoreCompileInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/obj/Debug/net9.0/CSharp.HelloName.sourcelink.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/obj/Debug/net9.0/CSharp.HelloName.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/obj/Debug/net9.0/refint/CSharp.HelloName.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/obj/Debug/net9.0/CSharp.HelloName.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/obj/Debug/net9.0/CSharp.HelloName.genruntimeconfig.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/obj/Debug/net9.0/ref/CSharp.HelloName.dll

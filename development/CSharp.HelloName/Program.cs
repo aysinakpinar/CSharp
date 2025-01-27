@@ -8,7 +8,8 @@ class Program
         Console.WriteLine(changeOfPlan("going to the cinema"));
         Console.WriteLine(apology("Caner"));
         Console.WriteLine(politeNotice("walk the dog"));
-        Console.WriteLine(helpNeeded("start the project"));
+        Program myProgram = new Program();
+        myProgram.helpNeeded("start the project");
     }
     static string Hello(){
         return "Hello!";
@@ -42,11 +43,11 @@ class Program
         return $"please don't forget to {newRequest}";
     }
 
-    static string helpNeeded(){
-        return "Help is needed to complete the project";
+    void helpNeeded(){
+        Console.WriteLine("Help is needed to complete the project");
     }
 
-    static string helpNeeded(string duty){
-        return $"Help is needed to {duty}";
+    void helpNeeded(string duty){
+        Console.WriteLine($"Help is needed to {duty}");
     }
 }

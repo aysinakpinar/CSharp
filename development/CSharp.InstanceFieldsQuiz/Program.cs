@@ -1,27 +1,30 @@
 ﻿namespace CSharp.InstanceFieldsQuiz;
 
-class Quiz
-{
+class Program
+{ 
     static void Main(string[] args)
     {
         Quiz quiz = new Quiz("what is the capital of Burkina Faso?", "What is the capital of Bhutan?");
         quiz.getQuestionOne();
         quiz.getQuestionTwo();
     }
+}
+class Quiz
+{
     string questionOne;
     string questionTwo;
-    Quiz(string questionOne, string questionTwo)
+    internal Quiz(string questionOne, string questionTwo)
     {
         this.questionOne = questionOne;
         this.questionTwo = questionTwo;
     }
 
-    private void getQuestionOne()
+    internal void getQuestionOne()
     {
         Console.WriteLine($"{questionOne}");
     }
 
-    private void getQuestionTwo()
+    internal void getQuestionTwo()
     {
         Console.WriteLine($"{questionTwo}");
     }

@@ -1,0 +1,15 @@
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/obj/Debug/net9.0/CSharp.InstanceFields.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/obj/Debug/net9.0/CSharp.InstanceFields.AssemblyInfoInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/obj/Debug/net9.0/CSharp.InstanceFields.AssemblyInfo.cs
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/obj/Debug/net9.0/CSharp.InstanceFields.csproj.CoreCompileInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/obj/Debug/net9.0/CSharp.InstanceFields.sourcelink.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/bin/Debug/net9.0/CSharp.InstanceFields
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/bin/Debug/net9.0/CSharp.InstanceFields.deps.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/bin/Debug/net9.0/CSharp.InstanceFields.runtimeconfig.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/bin/Debug/net9.0/CSharp.InstanceFields.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/bin/Debug/net9.0/CSharp.InstanceFields.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/obj/Debug/net9.0/CSharp.InstanceFields.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/obj/Debug/net9.0/refint/CSharp.InstanceFields.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/obj/Debug/net9.0/CSharp.InstanceFields.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/obj/Debug/net9.0/CSharp.InstanceFields.genruntimeconfig.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.InstanceFields/obj/Debug/net9.0/ref/CSharp.InstanceFields.dll

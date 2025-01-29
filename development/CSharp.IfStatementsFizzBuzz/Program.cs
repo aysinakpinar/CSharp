@@ -1,4 +1,4 @@
-﻿namespace CSharp.IfStatements;
+﻿namespace CSharp.IfStatementsFizzBuzz;
 
 class Program
 {

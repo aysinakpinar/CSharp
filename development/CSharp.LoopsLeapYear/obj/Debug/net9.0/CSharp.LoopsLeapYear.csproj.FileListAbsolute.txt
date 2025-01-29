@@ -1,0 +1,15 @@
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/obj/Debug/net9.0/CSharp.LoopsLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/obj/Debug/net9.0/CSharp.LoopsLeapYear.AssemblyInfoInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/obj/Debug/net9.0/CSharp.LoopsLeapYear.AssemblyInfo.cs
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/obj/Debug/net9.0/CSharp.LoopsLeapYear.csproj.CoreCompileInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/obj/Debug/net9.0/CSharp.LoopsLeapYear.sourcelink.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/bin/Debug/net9.0/CSharp.LoopsLeapYear
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/bin/Debug/net9.0/CSharp.LoopsLeapYear.deps.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/bin/Debug/net9.0/CSharp.LoopsLeapYear.runtimeconfig.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/bin/Debug/net9.0/CSharp.LoopsLeapYear.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/bin/Debug/net9.0/CSharp.LoopsLeapYear.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/obj/Debug/net9.0/CSharp.LoopsLeapYear.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/obj/Debug/net9.0/refint/CSharp.LoopsLeapYear.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/obj/Debug/net9.0/CSharp.LoopsLeapYear.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/obj/Debug/net9.0/CSharp.LoopsLeapYear.genruntimeconfig.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsLeapYear/obj/Debug/net9.0/ref/CSharp.LoopsLeapYear.dll

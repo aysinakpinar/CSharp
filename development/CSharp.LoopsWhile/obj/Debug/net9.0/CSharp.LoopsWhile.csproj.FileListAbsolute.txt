@@ -1,0 +1,15 @@
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/obj/Debug/net9.0/CSharp.LoopsWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/obj/Debug/net9.0/CSharp.LoopsWhile.AssemblyInfoInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/obj/Debug/net9.0/CSharp.LoopsWhile.AssemblyInfo.cs
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/obj/Debug/net9.0/CSharp.LoopsWhile.csproj.CoreCompileInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/obj/Debug/net9.0/CSharp.LoopsWhile.sourcelink.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/bin/Debug/net9.0/CSharp.LoopsWhile
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/bin/Debug/net9.0/CSharp.LoopsWhile.deps.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/bin/Debug/net9.0/CSharp.LoopsWhile.runtimeconfig.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/bin/Debug/net9.0/CSharp.LoopsWhile.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/bin/Debug/net9.0/CSharp.LoopsWhile.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/obj/Debug/net9.0/CSharp.LoopsWhile.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/obj/Debug/net9.0/refint/CSharp.LoopsWhile.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/obj/Debug/net9.0/CSharp.LoopsWhile.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/obj/Debug/net9.0/CSharp.LoopsWhile.genruntimeconfig.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsWhile/obj/Debug/net9.0/ref/CSharp.LoopsWhile.dll

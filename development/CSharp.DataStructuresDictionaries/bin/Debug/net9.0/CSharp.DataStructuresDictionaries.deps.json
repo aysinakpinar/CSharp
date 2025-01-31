@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CSharp.DataStructuresDictionaries/1.0.0": {
+        "runtime": {
+          "CSharp.DataStructuresDictionaries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharp.DataStructuresDictionaries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

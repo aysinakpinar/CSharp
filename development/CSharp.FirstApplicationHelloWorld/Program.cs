@@ -1,4 +1,4 @@
-﻿namespace CSharp.FirstApplication;
+﻿namespace CSharp.FirstApplicationHelloWorld;
 
 class Program
 {

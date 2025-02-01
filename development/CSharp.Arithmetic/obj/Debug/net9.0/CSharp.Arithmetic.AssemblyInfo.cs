@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp.Arithmetic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94f0f30e5a9012aecfa62f22f9cce46326558d9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eb3e84ab9b7b54b5bf70266932afe90ba7c2f7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp.Arithmetic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp.Arithmetic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp.DataStructuresArraysListsChallengeQueue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bb07048748b26c7376c04df4b7e7b8c25e196fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eb3e84ab9b7b54b5bf70266932afe90ba7c2f7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp.DataStructuresArraysListsChallengeQueue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp.DataStructuresArraysListsChallengeQueue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

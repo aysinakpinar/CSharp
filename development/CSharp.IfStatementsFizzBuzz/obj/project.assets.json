@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/CSharp.IfStatements.csproj",
-      "projectName": "CSharp.IfStatements",
-      "projectPath": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/CSharp.IfStatements.csproj",
+      "projectUniqueName": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatementsFizzBuzz/CSharp.IfStatementsFizzBuzz.csproj",
+      "projectName": "CSharp.IfStatementsFizzBuzz",
+      "projectPath": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatementsFizzBuzz/CSharp.IfStatementsFizzBuzz.csproj",
       "packagesPath": "/Users/aysinakpinar/.nuget/packages/",
-      "outputPath": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/obj/",
+      "outputPath": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatementsFizzBuzz/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aysinakpinar/.nuget/NuGet/NuGet.Config"

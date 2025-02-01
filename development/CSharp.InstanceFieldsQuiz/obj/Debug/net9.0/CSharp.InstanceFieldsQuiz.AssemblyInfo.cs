@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp.InstanceFieldsQuiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a230b0fd27b56ec7a5ceb9126dcb0b6ae66f0e5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc8c52fa28b9f674e9b83d9a07ed8626962b33f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp.InstanceFieldsQuiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp.InstanceFieldsQuiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

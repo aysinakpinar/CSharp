@@ -1,0 +1,15 @@
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/obj/Debug/net9.0/CSharp.DataStructuresDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/obj/Debug/net9.0/CSharp.DataStructuresDictionaries.AssemblyInfoInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/obj/Debug/net9.0/CSharp.DataStructuresDictionaries.AssemblyInfo.cs
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/obj/Debug/net9.0/CSharp.DataStructuresDictionaries.csproj.CoreCompileInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/obj/Debug/net9.0/CSharp.DataStructuresDictionaries.sourcelink.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/bin/Debug/net9.0/CSharp.DataStructuresDictionaries
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/bin/Debug/net9.0/CSharp.DataStructuresDictionaries.deps.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/bin/Debug/net9.0/CSharp.DataStructuresDictionaries.runtimeconfig.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/bin/Debug/net9.0/CSharp.DataStructuresDictionaries.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/bin/Debug/net9.0/CSharp.DataStructuresDictionaries.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/obj/Debug/net9.0/CSharp.DataStructuresDictionaries.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/obj/Debug/net9.0/refint/CSharp.DataStructuresDictionaries.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/obj/Debug/net9.0/CSharp.DataStructuresDictionaries.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/obj/Debug/net9.0/CSharp.DataStructuresDictionaries.genruntimeconfig.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.DataStructuresDictionaries/obj/Debug/net9.0/ref/CSharp.DataStructuresDictionaries.dll

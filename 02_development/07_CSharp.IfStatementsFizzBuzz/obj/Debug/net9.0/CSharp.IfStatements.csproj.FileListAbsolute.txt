@@ -1,0 +1,15 @@
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/obj/Debug/net9.0/CSharp.IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/obj/Debug/net9.0/CSharp.IfStatements.AssemblyInfoInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/obj/Debug/net9.0/CSharp.IfStatements.AssemblyInfo.cs
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/obj/Debug/net9.0/CSharp.IfStatements.csproj.CoreCompileInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/obj/Debug/net9.0/CSharp.IfStatements.sourcelink.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/bin/Debug/net9.0/CSharp.IfStatements
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/bin/Debug/net9.0/CSharp.IfStatements.deps.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/bin/Debug/net9.0/CSharp.IfStatements.runtimeconfig.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/bin/Debug/net9.0/CSharp.IfStatements.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/bin/Debug/net9.0/CSharp.IfStatements.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/obj/Debug/net9.0/CSharp.IfStatements.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/obj/Debug/net9.0/refint/CSharp.IfStatements.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/obj/Debug/net9.0/CSharp.IfStatements.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/obj/Debug/net9.0/CSharp.IfStatements.genruntimeconfig.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.IfStatements/obj/Debug/net9.0/ref/CSharp.IfStatements.dll

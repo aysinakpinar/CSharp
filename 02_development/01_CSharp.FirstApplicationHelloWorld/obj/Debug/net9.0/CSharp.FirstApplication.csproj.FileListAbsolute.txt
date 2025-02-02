@@ -1,0 +1,14 @@
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/bin/Debug/net9.0/CSharp.FirstApplication
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/bin/Debug/net9.0/CSharp.FirstApplication.deps.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/bin/Debug/net9.0/CSharp.FirstApplication.runtimeconfig.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/bin/Debug/net9.0/CSharp.FirstApplication.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/bin/Debug/net9.0/CSharp.FirstApplication.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/obj/Debug/net9.0/CSharp.FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/obj/Debug/net9.0/CSharp.FirstApplication.AssemblyInfoInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/obj/Debug/net9.0/CSharp.FirstApplication.AssemblyInfo.cs
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/obj/Debug/net9.0/CSharp.FirstApplication.csproj.CoreCompileInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/obj/Debug/net9.0/CSharp.FirstApplication.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/obj/Debug/net9.0/refint/CSharp.FirstApplication.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/obj/Debug/net9.0/CSharp.FirstApplication.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/obj/Debug/net9.0/CSharp.FirstApplication.genruntimeconfig.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.FirstApplication/obj/Debug/net9.0/ref/CSharp.FirstApplication.dll

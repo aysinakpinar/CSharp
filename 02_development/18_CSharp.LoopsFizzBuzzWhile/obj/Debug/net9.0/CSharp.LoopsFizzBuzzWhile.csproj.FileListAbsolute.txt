@@ -1,0 +1,15 @@
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/obj/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/obj/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.AssemblyInfoInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/obj/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.AssemblyInfo.cs
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/obj/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.csproj.CoreCompileInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/obj/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.sourcelink.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/bin/Debug/net9.0/CSharp.LoopsFizzBuzzWhile
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/bin/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.deps.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/bin/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.runtimeconfig.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/bin/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/bin/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/obj/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/obj/Debug/net9.0/refint/CSharp.LoopsFizzBuzzWhile.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/obj/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/obj/Debug/net9.0/CSharp.LoopsFizzBuzzWhile.genruntimeconfig.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.LoopsFizzBuzzWhile/obj/Debug/net9.0/ref/CSharp.LoopsFizzBuzzWhile.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp.StaticMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29cefef9f767730da4b6d4d9f7f2c10d612c2ff2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e4b611c902af60552a638e2650a5c1a080d3957")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp.StaticMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp.StaticMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

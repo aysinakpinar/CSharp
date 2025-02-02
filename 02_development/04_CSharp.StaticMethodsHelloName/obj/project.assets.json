@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/CSharp.HelloName.csproj",
+      "projectUniqueName": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/04_CSharp.StaticMethodsHelloName/CSharp.HelloName.csproj",
       "projectName": "CSharp.HelloName",
-      "projectPath": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/CSharp.HelloName.csproj",
+      "projectPath": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/04_CSharp.StaticMethodsHelloName/CSharp.HelloName.csproj",
       "packagesPath": "/Users/aysinakpinar/.nuget/packages/",
-      "outputPath": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.HelloName/obj/",
+      "outputPath": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/04_CSharp.StaticMethodsHelloName/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aysinakpinar/.nuget/NuGet/NuGet.Config"

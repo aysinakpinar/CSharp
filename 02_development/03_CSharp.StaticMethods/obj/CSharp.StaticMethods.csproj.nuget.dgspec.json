@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.StaticMethods/CSharp.StaticMethods.csproj": {}
+    "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/03_CSharp.StaticMethods/CSharp.StaticMethods.csproj": {}
   },
   "projects": {
-    "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.StaticMethods/CSharp.StaticMethods.csproj": {
+    "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/03_CSharp.StaticMethods/CSharp.StaticMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.StaticMethods/CSharp.StaticMethods.csproj",
+        "projectUniqueName": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/03_CSharp.StaticMethods/CSharp.StaticMethods.csproj",
         "projectName": "CSharp.StaticMethods",
-        "projectPath": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.StaticMethods/CSharp.StaticMethods.csproj",
+        "projectPath": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/03_CSharp.StaticMethods/CSharp.StaticMethods.csproj",
         "packagesPath": "/Users/aysinakpinar/.nuget/packages/",
-        "outputPath": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.StaticMethods/obj/",
+        "outputPath": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/03_CSharp.StaticMethods/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aysinakpinar/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.Quiz/CSharp.Quiz.csproj": {}
+    "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/02_CSharp.Quiz/CSharp.Quiz.csproj": {}
   },
   "projects": {
-    "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.Quiz/CSharp.Quiz.csproj": {
+    "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/02_CSharp.Quiz/CSharp.Quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.Quiz/CSharp.Quiz.csproj",
+        "projectUniqueName": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/02_CSharp.Quiz/CSharp.Quiz.csproj",
         "projectName": "CSharp.Quiz",
-        "projectPath": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.Quiz/CSharp.Quiz.csproj",
+        "projectPath": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/02_CSharp.Quiz/CSharp.Quiz.csproj",
         "packagesPath": "/Users/aysinakpinar/.nuget/packages/",
-        "outputPath": "/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/development/CSharp.Quiz/obj/",
+        "outputPath": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_development/02_CSharp.Quiz/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aysinakpinar/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/bin/Debug/net9.0/CSharp.Main
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/bin/Debug/net9.0/CSharp.Main.deps.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/bin/Debug/net9.0/CSharp.Main.runtimeconfig.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/bin/Debug/net9.0/CSharp.Main.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/bin/Debug/net9.0/CSharp.Main.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/obj/Debug/net9.0/CSharp.Main.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/obj/Debug/net9.0/CSharp.Main.AssemblyInfoInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/obj/Debug/net9.0/CSharp.Main.AssemblyInfo.cs
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/obj/Debug/net9.0/CSharp.Main.csproj.CoreCompileInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/obj/Debug/net9.0/CSharp.Main.sourcelink.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/obj/Debug/net9.0/CSharp.Main.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/obj/Debug/net9.0/refint/CSharp.Main.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/obj/Debug/net9.0/CSharp.Main.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/obj/Debug/net9.0/CSharp.Main.genruntimeconfig.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.Main/obj/Debug/net9.0/ref/CSharp.Main.dll

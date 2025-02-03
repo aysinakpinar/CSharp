@@ -1,0 +1,15 @@
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/bin/Debug/net9.0/CSharp.RunningCode
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/bin/Debug/net9.0/CSharp.RunningCode.deps.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/bin/Debug/net9.0/CSharp.RunningCode.runtimeconfig.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/bin/Debug/net9.0/CSharp.RunningCode.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/bin/Debug/net9.0/CSharp.RunningCode.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/obj/Debug/net9.0/CSharp.RunningCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/obj/Debug/net9.0/CSharp.RunningCode.AssemblyInfoInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/obj/Debug/net9.0/CSharp.RunningCode.AssemblyInfo.cs
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/obj/Debug/net9.0/CSharp.RunningCode.csproj.CoreCompileInputs.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/obj/Debug/net9.0/CSharp.RunningCode.sourcelink.json
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/obj/Debug/net9.0/CSharp.RunningCode.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/obj/Debug/net9.0/refint/CSharp.RunningCode.dll
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/obj/Debug/net9.0/CSharp.RunningCode.pdb
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/obj/Debug/net9.0/CSharp.RunningCode.genruntimeconfig.cache
+/Users/aysinakpinar/Desktop/Bootcamp/c_sharp/1_csharp-fundamentals-materials/bites/examples/CSharp.RunningCode/obj/Debug/net9.0/ref/CSharp.RunningCode.dll

@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h2> Welcome to MakersBnB!</h2>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="text-center">
+    <h2> Reviews</h2>
+    <ol style="list-style-position: inside;">
+        @{
+            string[] reviews = new string[4] 
+            {
+                "a five star accommodation", "very clean", "lovely staff", "great location"
+            };
+            foreach(string review in reviews)
+            {
+                <li>@review</li>
+            }
+        }
+    </ol>
+</div>
+<div class="text-center">
+    @{
+        Dictionary<string, string> holidays = new Dictionary<string, string>
+        {
+            {"03-02", "Feed the Birds Day"},
+            {"25-12", "Christmas Day"},
+            {"01-01", "New Years Day"}
+        };
+        string today = DateTime.Now.ToString("dd-MM");
+        string message;
+        if(holidays.ContainsKey(today))
+        {
+            message = $"Happy {holidays[today]}!";
+        }
+        else
+        {
+            message = "No special holiday today";
+        }
+    }
+    <h2>Today's Holiday</h2>
+    <p> @message</p>
+</div>

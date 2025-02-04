@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4mRAlcA7m+5wFeJ3c7MlJ07NmK2eI0CYoWYzO5uYm4Q=",
+  "Hash": "UY7STFu1Awc4DUOSrAG6ZtH7zyD3SQTesvbKDs1keAY=",
   "Source": "MakersBnB",
   "BasePath": "_content/MakersBnB",
   "Mode": "Default",
@@ -584,12 +584,12 @@
       "OriginalItemSpec": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/e7vx465fuc-sf7jrmbnfz.gz",
+      "Identity": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/e7vx465fuc-lu40dqm84c.gz",
       "SourceId": "MakersBnB",
       "SourceType": "Computed",
       "ContentRoot": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/MakersBnB",
-      "RelativePath": "MakersBnB#[.{fingerprint=sf7jrmbnfz}]?.styles.css.gz",
+      "RelativePath": "MakersBnB#[.{fingerprint=lu40dqm84c}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -598,8 +598,8 @@
       "RelatedAsset": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/scopedcss/bundle/MakersBnB.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "caddj7a5vd",
-      "Integrity": "fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70=",
+      "Fingerprint": "askeaq8l4m",
+      "Integrity": "Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/scopedcss/bundle/MakersBnB.styles.css"
@@ -1088,12 +1088,12 @@
       "OriginalItemSpec": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/t0v60qgsvg-sf7jrmbnfz.gz",
+      "Identity": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/t0v60qgsvg-lu40dqm84c.gz",
       "SourceId": "MakersBnB",
       "SourceType": "Computed",
       "ContentRoot": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/MakersBnB",
-      "RelativePath": "MakersBnB#[.{fingerprint=sf7jrmbnfz}]!.bundle.scp.css.gz",
+      "RelativePath": "MakersBnB#[.{fingerprint=lu40dqm84c}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -1102,8 +1102,8 @@
       "RelatedAsset": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/scopedcss/projectbundle/MakersBnB.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "caddj7a5vd",
-      "Integrity": "fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70=",
+      "Fingerprint": "askeaq8l4m",
+      "Integrity": "Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/scopedcss/projectbundle/MakersBnB.bundle.scp.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "sf7jrmbnfz",
-      "Integrity": "aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ=",
+      "Fingerprint": "lu40dqm84c",
+      "Integrity": "c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/scopedcss/bundle/MakersBnB.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "sf7jrmbnfz",
-      "Integrity": "aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ=",
+      "Fingerprint": "lu40dqm84c",
+      "Integrity": "c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/scopedcss/projectbundle/MakersBnB.bundle.scp.css"
@@ -21287,12 +21287,12 @@
     },
     {
       "Route": "MakersBnB.bundle.scp.css",
-      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/t0v60qgsvg-sf7jrmbnfz.gz",
+      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/t0v60qgsvg-lu40dqm84c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001869158879"
+          "Quality": "0.001536098310"
         }
       ],
       "ResponseHeaders": [
@@ -21302,15 +21302,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "650"
         },
         {
           "Name": "ETag",
-          "Value": "\"fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70=\""
+          "Value": "\"Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21330,13 +21330,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ=\""
+          "Value": "W/\"c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ="
+          "Value": "sha256-c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM="
         }
       ]
     },
@@ -21351,7 +21351,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1078"
+          "Value": "1411"
         },
         {
           "Name": "Content-Type",
@@ -21359,11 +21359,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ=\""
+          "Value": "\"c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21373,13 +21373,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ="
+          "Value": "sha256-c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM="
         }
       ]
     },
     {
       "Route": "MakersBnB.bundle.scp.css.gz",
-      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/t0v60qgsvg-sf7jrmbnfz.gz",
+      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/t0v60qgsvg-lu40dqm84c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21388,7 +21388,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "650"
         },
         {
           "Name": "Content-Type",
@@ -21396,11 +21396,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70=\""
+          "Value": "\"Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21418,18 +21418,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70="
+          "Value": "sha256-Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM="
         }
       ]
     },
     {
-      "Route": "MakersBnB.sf7jrmbnfz.bundle.scp.css",
-      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/t0v60qgsvg-sf7jrmbnfz.gz",
+      "Route": "MakersBnB.lu40dqm84c.bundle.scp.css",
+      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/t0v60qgsvg-lu40dqm84c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001869158879"
+          "Quality": "0.001536098310"
         }
       ],
       "ResponseHeaders": [
@@ -21439,15 +21439,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "650"
         },
         {
           "Name": "ETag",
-          "Value": "\"fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70=\""
+          "Value": "\"Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21467,13 +21467,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ=\""
+          "Value": "W/\"c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sf7jrmbnfz"
+          "Value": "lu40dqm84c"
         },
         {
           "Name": "label",
@@ -21481,12 +21481,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ="
+          "Value": "sha256-c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM="
         }
       ]
     },
     {
-      "Route": "MakersBnB.sf7jrmbnfz.bundle.scp.css",
+      "Route": "MakersBnB.lu40dqm84c.bundle.scp.css",
       "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/scopedcss/projectbundle/MakersBnB.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21496,7 +21496,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1078"
+          "Value": "1411"
         },
         {
           "Name": "Content-Type",
@@ -21504,11 +21504,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ=\""
+          "Value": "\"c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21518,7 +21518,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sf7jrmbnfz"
+          "Value": "lu40dqm84c"
         },
         {
           "Name": "label",
@@ -21526,13 +21526,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ="
+          "Value": "sha256-c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM="
         }
       ]
     },
     {
-      "Route": "MakersBnB.sf7jrmbnfz.bundle.scp.css.gz",
-      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/t0v60qgsvg-sf7jrmbnfz.gz",
+      "Route": "MakersBnB.lu40dqm84c.bundle.scp.css.gz",
+      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/t0v60qgsvg-lu40dqm84c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21541,7 +21541,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "650"
         },
         {
           "Name": "Content-Type",
@@ -21549,11 +21549,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70=\""
+          "Value": "\"Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21571,7 +21571,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sf7jrmbnfz"
+          "Value": "lu40dqm84c"
         },
         {
           "Name": "label",
@@ -21579,18 +21579,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70="
+          "Value": "sha256-Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM="
         }
       ]
     },
     {
-      "Route": "MakersBnB.sf7jrmbnfz.styles.css",
-      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/e7vx465fuc-sf7jrmbnfz.gz",
+      "Route": "MakersBnB.lu40dqm84c.styles.css",
+      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/e7vx465fuc-lu40dqm84c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001869158879"
+          "Quality": "0.001536098310"
         }
       ],
       "ResponseHeaders": [
@@ -21600,15 +21600,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "650"
         },
         {
           "Name": "ETag",
-          "Value": "\"fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70=\""
+          "Value": "\"Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21628,13 +21628,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ=\""
+          "Value": "W/\"c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sf7jrmbnfz"
+          "Value": "lu40dqm84c"
         },
         {
           "Name": "label",
@@ -21642,12 +21642,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ="
+          "Value": "sha256-c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM="
         }
       ]
     },
     {
-      "Route": "MakersBnB.sf7jrmbnfz.styles.css",
+      "Route": "MakersBnB.lu40dqm84c.styles.css",
       "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/scopedcss/bundle/MakersBnB.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21657,7 +21657,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1078"
+          "Value": "1411"
         },
         {
           "Name": "Content-Type",
@@ -21665,11 +21665,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ=\""
+          "Value": "\"c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21679,7 +21679,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sf7jrmbnfz"
+          "Value": "lu40dqm84c"
         },
         {
           "Name": "label",
@@ -21687,13 +21687,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ="
+          "Value": "sha256-c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM="
         }
       ]
     },
     {
-      "Route": "MakersBnB.sf7jrmbnfz.styles.css.gz",
-      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/e7vx465fuc-sf7jrmbnfz.gz",
+      "Route": "MakersBnB.lu40dqm84c.styles.css.gz",
+      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/e7vx465fuc-lu40dqm84c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21702,7 +21702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "650"
         },
         {
           "Name": "Content-Type",
@@ -21710,11 +21710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70=\""
+          "Value": "\"Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21732,7 +21732,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sf7jrmbnfz"
+          "Value": "lu40dqm84c"
         },
         {
           "Name": "label",
@@ -21740,18 +21740,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70="
+          "Value": "sha256-Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM="
         }
       ]
     },
     {
       "Route": "MakersBnB.styles.css",
-      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/e7vx465fuc-sf7jrmbnfz.gz",
+      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/e7vx465fuc-lu40dqm84c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001869158879"
+          "Quality": "0.001536098310"
         }
       ],
       "ResponseHeaders": [
@@ -21761,15 +21761,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "650"
         },
         {
           "Name": "ETag",
-          "Value": "\"fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70=\""
+          "Value": "\"Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21789,13 +21789,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ=\""
+          "Value": "W/\"c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ="
+          "Value": "sha256-c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM="
         }
       ]
     },
@@ -21810,7 +21810,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1078"
+          "Value": "1411"
         },
         {
           "Name": "Content-Type",
@@ -21818,11 +21818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ=\""
+          "Value": "\"c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21832,13 +21832,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aC/0HrAd8ggM19XuTujryQRge3/1YVp/+KEfE3AS0jQ="
+          "Value": "sha256-c7I8k6PYLyr+eDUEBe32W45JYyB8zEgH6V7V79ek6yM="
         }
       ]
     },
     {
       "Route": "MakersBnB.styles.css.gz",
-      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/e7vx465fuc-sf7jrmbnfz.gz",
+      "AssetFile": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/e7vx465fuc-lu40dqm84c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21847,7 +21847,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "534"
+          "Value": "650"
         },
         {
           "Name": "Content-Type",
@@ -21855,11 +21855,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70=\""
+          "Value": "\"Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 10:55:16 GMT"
+          "Value": "Tue, 04 Feb 2025 18:17:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21877,7 +21877,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fCzEFnkwJ67iRA3997w+AwP++MOJ/nSIaYVSryV1l70="
+          "Value": "sha256-Ru2QFkoqcdKrhMWSusXPV4UqgngExiy9jM8Fs6IC2GM="
         }
       ]
     }

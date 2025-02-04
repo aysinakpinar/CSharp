@@ -1,0 +1,24 @@
+<html>
+    @model IEnumerable<MakersBnB.Models.Space>
+    @{
+    ViewData["Title"] = "Spaces";
+    }
+    <body>
+        <div class="text-center">
+            <h1>Available Spaces</h1>
+        </div> 
+        @{
+            foreach(var space in  ViewBag.Spaces)
+            {
+                <h2>@space.Name</h2>
+                <p><b>Description:</b> @space.Description</p>
+                <p> <b>Bedroom:</b> @space.Bedrooms</p>
+                <p> <b>Rules:</b> @space.Rules</p>
+                <p> <b>Price:</b> £@space.Price</p>
+            }
+        }
+        <div class="text-center">
+            <a href="/Spaces/New" class="btn btn-primary">Add New Space</a>
+        </div> 
+    </body>
+</html>

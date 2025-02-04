@@ -32,4 +32,9 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult ContactUs()
+    {
+        ViewBag.eMail = "info@makersbnb.com";
+        return View();
+    }
 }

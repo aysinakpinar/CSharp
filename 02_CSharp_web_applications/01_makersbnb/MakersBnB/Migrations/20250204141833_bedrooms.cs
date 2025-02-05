@@ -5,7 +5,7 @@
 namespace MakersBnB.Migrations
 {
     /// <inheritdoc />
-    public partial class bedrooms : Migration
+    public partial class Bedrooms : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

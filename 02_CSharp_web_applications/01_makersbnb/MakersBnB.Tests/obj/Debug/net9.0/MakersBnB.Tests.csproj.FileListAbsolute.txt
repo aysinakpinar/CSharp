@@ -451,3 +451,8 @@
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB.Tests/bin/Debug/net9.0/Microsoft.Playwright.dll
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB.Tests/bin/Debug/net9.0/Microsoft.Playwright.NUnit.dll
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB.Tests/bin/Debug/net9.0/Microsoft.Playwright.TestAdapter.dll
+/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB.Tests/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB.Tests/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB.Tests/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB.Tests/bin/Debug/net9.0/Npgsql.dll
+/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB.Tests/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll

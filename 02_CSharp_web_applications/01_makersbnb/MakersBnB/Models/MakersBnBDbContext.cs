@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 public class MakersBnBDbContext : DbContext
 {
     internal DbSet<Space>? Spaces { get; set; }
+    internal DbSet<User>? Users { get; set; }
 
     internal string? DbPath { get; }
 

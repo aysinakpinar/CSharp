@@ -12,7 +12,7 @@ namespace MakersBnB.Migrations
 {
     [DbContext(typeof(MakersBnBDbContext))]
     [Migration("20250204141833_bedrooms")]
-    partial class bedrooms
+    partial class Bedrooms
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

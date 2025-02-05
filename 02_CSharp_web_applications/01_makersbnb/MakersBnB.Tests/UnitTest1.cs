@@ -66,4 +66,10 @@ public class Tests : PageTest
             Assert.That(informationCollected, Does.Contain(expectedItem));
         }
     }
+    [Test]
+    public async Task NewUserPage()
+    {
+        await Page.GotoAsync("http://localhost:5133/Users/New");
+        await Page.GetByLabel("password").FillAsync("password");
+    }
 }

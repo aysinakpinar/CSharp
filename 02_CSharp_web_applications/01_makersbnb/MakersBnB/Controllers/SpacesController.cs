@@ -26,19 +26,19 @@ public class SpacesController : Controller
         return View();
     }
     // In this case we need a custom route mapping
-// we also need to specify that we're handling a POST request
-// to differentiate from Index(), which handles 'GET "/spaces"'
-[Route("/Spaces")]
-[HttpPost]
-public IActionResult Create(Space space)
-{   
-    MakersBnBDbContext dbContext = new MakersBnBDbContext();
-    // Here's where we finally use the dbContext
-    dbContext.Spaces.Add(space);
-    dbContext.SaveChanges();
+    // we also need to specify that we're handling a POST request
+    // to differentiate from Index(), which handles 'GET "/spaces"'
+    [Route("/Spaces")]
+    [HttpPost]
+    public IActionResult Create(Space space)
+    {   
+        MakersBnBDbContext dbContext = new MakersBnBDbContext();
+        // Here's where we finally use the dbContext
+        dbContext?.Spaces?.Add(space);
+        dbContext?.SaveChanges();
 
-    // redirect to "/Spaces"
-    return new RedirectResult("/Spaces");
-}
+        // redirect to "/Spaces"
+        return new RedirectResult("/Spaces");
+    }
 
 }

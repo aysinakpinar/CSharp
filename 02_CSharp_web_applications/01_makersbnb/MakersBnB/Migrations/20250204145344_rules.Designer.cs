@@ -12,7 +12,7 @@ namespace MakersBnB.Migrations
 {
     [DbContext(typeof(MakersBnBDbContext))]
     [Migration("20250204145344_rules")]
-    partial class rules
+    partial class Rules
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

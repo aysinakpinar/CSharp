@@ -20,15 +20,33 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
+                        <li class="nav-item ms-2">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item ms-2">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item ms-2">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Spaces" asp-action="Index" >Spaces</a>
                         </li>
+                    </ul>
+                    <ul class="navbar-nav ms-auto">
+                        <!-- Conditionally display "Sign In" or "Account" -->
+                        @if (Context.Session.GetInt32("user_id") != null)
+                        {
+                            <li class="nav-ite ms-2">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Sessions" asp-action="Dashboard">Account</a>
+                            </li>
+                            <li class="nav-item ms-2">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Sessions" asp-action="Logout">Logout</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item ms-2">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Sessions" asp-action="New">Sign In</a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>

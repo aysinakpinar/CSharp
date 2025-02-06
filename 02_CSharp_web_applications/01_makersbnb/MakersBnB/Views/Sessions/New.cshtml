@@ -1,0 +1,43 @@
+<form action="/Sessions" method="post">
+@{
+    ViewData["Title"] = "Sign in";
+}
+    <fieldset class="text-center">
+        <legend><b>Sign in</b></legend>
+            <div class="col-md-6 offset-md-3">
+                    <div class="mb-3">
+                        <label for="email" class="form-label"><b>Email</b></label>
+                        <input type="text" id="email" name="email" class="form-control" />
+                    </div>
+            </div>
+            <div class="col-md-6 offset-md-3">
+                    <div class="mb-3">
+                        <label for="password" class="form-label"><b>Password</b></label>
+                        <input type="password" id="password" name="password" class="form-control" />
+                    </div>
+            </div>
+            <div class="col-md-6 offset-md-3 text-center">
+                <p>
+                    <input type="submit" value="Submit" class="btn btn-primary" />
+                </p>
+            </div>
+            <p>
+                Create an account
+            </p>
+            <div class="col-md-6 offset-md-3 text-center">
+                <p>
+                    <a class="btn btn-primary" asp-controller="Users" asp-action="New">Sign Up</a>
+                </p>
+            </div>
+    </fieldset>
+</form>
+
+@{
+var errorMessage = TempData["ErrorMessage"];
+}
+@if (errorMessage != null)
+{
+    <div class="alert alert-danger">
+        @errorMessage
+    </div>
+}

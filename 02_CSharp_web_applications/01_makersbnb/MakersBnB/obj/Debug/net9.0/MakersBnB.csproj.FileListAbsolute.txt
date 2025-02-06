@@ -18,7 +18,6 @@
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/scopedcss/bundle/MakersBnB.styles.css
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/scopedcss/projectbundle/MakersBnB.bundle.scp.css
-/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/2jwf4i79my-b9sayid5wm.gz
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/kyrqli30lf-61n19gt1b8.gz
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/87xaog0puj-xtxxf3hu2r.gz
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/4fu2p3pb44-bqjiyaj88i.gz
@@ -186,3 +185,4 @@
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/MakersBnB.csproj.Up2Date
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/e7vx465fuc-lu40dqm84c.gz
 /Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/t0v60qgsvg-lu40dqm84c.gz
+/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/obj/Debug/net9.0/compressed/2jwf4i79my-b9sayid5wm.gz

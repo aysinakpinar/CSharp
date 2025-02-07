@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OTrYYC2bxgM=",
+  "dgSpecHash": "ZG3bfyFrrTs=",
   "success": true,
   "projectFilePath": "/Users/aysinakpinar/Desktop/Bootcamp/02_c_sharp/02_CSharp_web_applications/01_makersbnb/MakersBnB/MakersBnB.csproj",
   "expectedPackageFiles": [
+    "/Users/aysinakpinar/.nuget/packages/bogus/35.6.1/bogus.35.6.1.nupkg.sha512",
+    "/Users/aysinakpinar/.nuget/packages/faker.net/2.0.163/faker.net.2.0.163.nupkg.sha512",
     "/Users/aysinakpinar/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/aysinakpinar/.nuget/packages/microsoft.aspnetcore.authentication/2.3.0/microsoft.aspnetcore.authentication.2.3.0.nupkg.sha512",
     "/Users/aysinakpinar/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.3.0/microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
@@ -55,6 +57,7 @@
     "/Users/aysinakpinar/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "/Users/aysinakpinar/.nuget/packages/microsoft.win32.registry/4.5.0/microsoft.win32.registry.4.5.0.nupkg.sha512",
     "/Users/aysinakpinar/.nuget/packages/mono.texttemplating/3.0.0/mono.texttemplating.3.0.0.nupkg.sha512",
+    "/Users/aysinakpinar/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/aysinakpinar/.nuget/packages/npgsql/9.0.2/npgsql.9.0.2.nupkg.sha512",
     "/Users/aysinakpinar/.nuget/packages/npgsql.entityframeworkcore.postgresql/9.0.3/npgsql.entityframeworkcore.postgresql.9.0.3.nupkg.sha512",
     "/Users/aysinakpinar/.nuget/packages/system.buffers/4.6.0/system.buffers.4.6.0.nupkg.sha512",

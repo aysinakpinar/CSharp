@@ -29,7 +29,7 @@ public class UsersController : Controller
     {
         MakersBnBDbContext dbContext = new MakersBnBDbContext();
 
-        if(username == null)
+        if(string.IsNullOrEmpty(username))
         {
             TempData["ErrorMessage"] = "Username can not be empty. Please try again.";
             return RedirectToAction("New");  // Assuming you redirect back to the registration form
@@ -61,7 +61,7 @@ public class UsersController : Controller
         Regex rgUserName = new Regex("[^a-zA-Z0-9_.]");
         if(rgUserName.IsMatch(username))
         {
-            TempData["ErrorMessage"] = "Username should only contain alphanumerics or underscore. Please try again.";
+            TempData["ErrorMessage"] = "Username should only contain letters, numbers or underscore. Please try again.";
             return RedirectToAction("New");  // Assuming you redirect back to the registration form
         }
 
@@ -104,6 +104,6 @@ public class UsersController : Controller
         dbContext?.SaveChanges();
 
         // Redirect to the Spaces Index after the user is created.
-        return RedirectToAction("Dashboard", "Sessions");
+        return RedirectToAction("New", "Sessions");
     }
 }

@@ -52,7 +52,7 @@ public class SessionsController : Controller
                 return RedirectToAction("New"); // Redirect back to login
             }
         } 
-    TempData["ErrorMessage"] = $"There isn't any account for {email}. Please sign up.";
+    TempData["ErrorMessage"] = $"There is not any account for {email}. Please sign up.";
     return RedirectToAction("New"); // Redirect back to login
     }
     [ServiceFilter(typeof(AuthenticationFilter))]
